@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Welcome!
+title: Welcome
 ---
-You can change the title above if you want to and then write your content.  
+  Kylee Dismuke Rodriguez is an undergraduate student at Cal Poly SLO. She is scheduled to complete her degree in Chemistry in Spring 2023. 

@@ -6,9 +6,6 @@ permalink: /photos/
 
 Here are some photos of fun lab times at Cuesta and Cal Poly. 
 
-<img src="{{site.baseurl}}/images/IMG_7925.JPG" alt="Picture Chemistry Lab Equipment" width="100" 
-style="float: left; margin-top: 0px; margin-right: 10px" /> 
-
 
 
 

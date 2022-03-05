@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am currently an undergrad at Cal Poly SLO
+I have an Associate's Degree in Chemistry from Cuesta College.
+I am scheduled to complete my Bachelor's Degree in Spring 2023.
+### 
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[armcdona@calpoly.edu](mailto:armcdona@calpoly.edu)
+[kdismuke@calpoly.edu](mailto:kdismuke@calpoly.edu)

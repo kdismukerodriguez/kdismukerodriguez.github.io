@@ -7,7 +7,8 @@ permalink: /photos/
 Here are a couple photos of the experiments I have done at Cal Poly and Cuesta!
 Lab is so much fun!
 
-![Physical Chemistry Lab Equipment]({{kdismukerodriguez.github.io}})/images/IMG_7925.JPG.png)
+<img src="{{site.baseurl}}/images/" alt="Picture of Physical Chemistry Lab Equipment" width="100" 
+style="float: left; margin-top: 0px; margin-right: 10px" /> 
 
 
 ### Contact me

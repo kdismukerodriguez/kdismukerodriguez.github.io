@@ -5,7 +5,7 @@ permalink: /photos/
 ---
 
 Here are some photos of fun lab times at Cuesta and Cal Poly. 
-
+[Alternative Text]( {{ site.baseurl }}/images/ )
 
 
 

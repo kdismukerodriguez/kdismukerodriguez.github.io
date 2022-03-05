@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Publications
+title: Projects
 permalink: /pubs/
 ---
 
-1. A great publication.
-2. Another great publication.
+I am scheduled to start undergraduate research with Dr. Kantorowski in Spring 2022. 
+The Kantorowski group focuses on organic synthesis, characterization, and mechanisms. 
+They are presently working on ring-openings of arylcyclopropanes. 
